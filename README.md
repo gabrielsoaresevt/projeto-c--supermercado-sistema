@@ -15,6 +15,7 @@
 
 ---
 
+<a id="sobre-o-projeto"></a>
 ## 🧾 SOBRE O PROJETO
 
 O **Sistema de Supermercado Desktop** foi criado para facilitar a operação de mercados e mercearias, entregando uma experiência robusta e prática de gestão de produtos, frente de caixa e emissão de nota fiscal.
@@ -29,6 +30,7 @@ O projeto combina:
 
 ---
 
+<a id="funcionalidades-principais"></a>
 ## ✨ FUNCIONALIDADES PRINCIPAIS
 
 - 🧾 **Gerenciamento de Produtos**
@@ -67,6 +69,22 @@ O projeto combina:
 
 ---
 
+<a id="tecnologias-utilizadas"></a>
+## 🛠️ TECNOLOGIAS UTILIZADAS
+
+| Tecnologia | Uso |
+|---|---|
+| 🟦 `C#` | Lógica de negócio e interface desktop |
+| ⚙️ `.NET` | Plataforma de desenvolvimento |
+| 🪟 `Windows Forms` | Interface gráfica nativa do Windows |
+| 🐬 `MySQL` | Banco de dados relacional |
+| 🖨️ Ferramentas nativas Windows | Impressão, desenho e exportação para PDF |
+
+> O projeto é estruturado para funcionar como uma aplicação desktop clássica, aproveitando o ecossistema Windows e MySQL para máximo desempenho e compatibilidade.
+
+---
+
+<a id="banco-de-dados"></a>
 ## 💾 BANCO DE DADOS
 
 O schema principal está organizado no arquivo `supermercado_db.sql`.
@@ -91,6 +109,7 @@ Este arquivo inclui:
 
 ---
 
+<a id="demonstracao-visual-prints"></a>
 ## 🖼️ DEMONSTRAÇÃO VISUAL (PRINTS)
 
 <div align="center">
@@ -107,6 +126,7 @@ Este arquivo inclui:
 
 ---
 
+<a id="como-executar"></a>
 ## ▶️ COMO EXECUTAR
 
 ### 1. Clonar o repositório
