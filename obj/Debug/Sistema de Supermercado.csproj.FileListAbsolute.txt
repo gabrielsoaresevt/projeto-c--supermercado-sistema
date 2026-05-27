@@ -1,0 +1,57 @@
+C:\Projeto final\Sistema de Supermercado\bin\Debug\Sistema de Supermercado.exe.config
+C:\Projeto final\Sistema de Supermercado\bin\Debug\Sistema de Supermercado.exe
+C:\Projeto final\Sistema de Supermercado\bin\Debug\Sistema de Supermercado.pdb
+C:\Projeto final\Sistema de Supermercado\obj\Debug\Sistema de Supermercado.csproj.AssemblyReference.cache
+C:\Projeto final\Sistema de Supermercado\obj\Debug\Sistema_de_Supermercado.FormCompras.resources
+C:\Projeto final\Sistema de Supermercado\obj\Debug\Sistema_de_Supermercado.FormProdutos.resources
+C:\Projeto final\Sistema de Supermercado\obj\Debug\Sistema_de_Supermercado.Properties.Resources.resources
+C:\Projeto final\Sistema de Supermercado\obj\Debug\Sistema de Supermercado.csproj.GenerateResource.cache
+C:\Projeto final\Sistema de Supermercado\obj\Debug\Sistema de Supermercado.csproj.CoreCompileInputs.cache
+C:\Projeto final\Sistema de Supermercado\obj\Debug\Sistema de Supermercado.exe
+C:\Projeto final\Sistema de Supermercado\obj\Debug\Sistema de Supermercado.pdb
+C:\Projeto final\Sistema de Supermercado\obj\Debug\Sistema_de_Supermercado.FormNota.resources
+C:\Projeto final\Sistema de Supermercado\obj\Debug\Sistema_de_Supermercado.MainForm.resources
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\Sistema de Supermercado.exe.config
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\Sistema de Supermercado.exe
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\Sistema de Supermercado.pdb
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\obj\Debug\Sistema de Supermercado.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\obj\Debug\Sistema_de_Supermercado.FormCompras.resources
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\obj\Debug\Sistema_de_Supermercado.FormNota.resources
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\obj\Debug\Sistema_de_Supermercado.FormProdutos.resources
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\obj\Debug\Sistema_de_Supermercado.MainForm.resources
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\obj\Debug\Sistema_de_Supermercado.Properties.Resources.resources
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\obj\Debug\Sistema de Supermercado.csproj.GenerateResource.cache
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\obj\Debug\Sistema de Supermercado.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\obj\Debug\Sistema de Supermercado.exe
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\obj\Debug\Sistema de Supermercado.pdb
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\Google.Protobuf.dll
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\MySql.Data.dll
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\System.Buffers.dll
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\System.IO.Pipelines.dll
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\System.Memory.dll
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\ZstdSharp.dll
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\Google.Protobuf.pdb
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\Google.Protobuf.xml
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\MySql.Data.xml
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\System.Buffers.xml
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\System.IO.Pipelines.xml
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\System.Memory.xml
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gabri\Desktop\programacao-visual\Sistema de Supermercado\obj\Debug\Sistema .4CBAE804.Up2Date
