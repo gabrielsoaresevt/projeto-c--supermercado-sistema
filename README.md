@@ -91,9 +91,9 @@ O schema principal está organizado no arquivo `supermercado_db.sql`.
 
 Este arquivo inclui:
 - criação do banco de dados `supermercado_db`
-- tabelas essenciais: `produtos`, `vendas`, `itens_venda`, `clientes` e `notas_fiscais`
+- tabelas essenciais: `categorias`, `produtos`, `vendas`, `itens_venda`
 - definições de campos, chaves primárias e relacionamentos
-- fluxos de integridade para o controle de estoque e notas fiscais
+- fluxos de integridade para o controle de estoque e geração de notas fiscais.
 
 ### Estrutura recomendada
 
@@ -103,7 +103,7 @@ Este arquivo inclui:
 | `produtos` | Tabela de cadastro de produtos e estoque |
 | `vendas` | Registro de vendas e transações de PDV |
 | `itens_venda` | Itens adicionados ao carrinho por venda |
-| `notas_fiscais` | Dados e metadados da nota fiscal gerada |
+| `categorias` | Tabela de categorias de produtos |
 
 > Use o arquivo `supermercado_db.sql` para criar rapidamente o banco de dados e manter o ambiente consistente em diferentes máquinas.
 
