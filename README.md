@@ -1,6 +1,23 @@
 # 🛒 Sistema de Supermercado Desktop
 
-> Um sistema completo para gestão de mercado com PDV, controle de estoque e nota fiscal em PDF.
+> Projeto desenvolvido para a disciplina de Programação Visual no 7º semestre da UNINOVE.
+
+---
+
+## 📌 INTRODUÇÃO
+
+- **Nome do projeto:** Sistema de Supermercado Desktop
+- **Disciplina:** Programação Visual
+- **Semestre:** 7º semestre
+- **Instituição:** UNINOVE
+
+### Integrantes
+- Emilly Vitoria Rodrigues de Souza - 923115585
+- Gabriel Soares Evangelista - 923112771
+- Gustavo Breves Viana - 923101758
+- Lucas Mendes Araujo - 923106994
+
+> Aplicação desenvolvida para a disciplina de Programação Visual do 7º semestre da UNINOVE.
 
 ---
 
@@ -10,8 +27,9 @@
 - [Funcionalidades Principais](#funcionalidades-principais)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Banco de Dados](#banco-de-dados)
-- [Demonstração Visual (Prints)](#demonstração-visual-prints)
+- [Demonstração Visual (Prints)](#demonstracao-visual-prints)
 - [Como Executar](#como-executar)
+- [Usuário e senha de teste](#usuario-e-senha-de-teste)
 
 ---
 
@@ -67,22 +85,6 @@ O projeto combina:
 
 > O projeto é estruturado para funcionar como uma aplicação desktop clássica, aproveitando o ecossistema Windows e MySQL para máximo desempenho e compatibilidade.
 
----
-
-<a id="tecnologias-utilizadas"></a>
-## 🛠️ TECNOLOGIAS UTILIZADAS
-
-| Tecnologia | Uso |
-|---|---|
-| 🟦 `C#` | Lógica de negócio e interface desktop |
-| ⚙️ `.NET` | Plataforma de desenvolvimento |
-| 🪟 `Windows Forms` | Interface gráfica nativa do Windows |
-| 🐬 `MySQL` | Banco de dados relacional |
-| 🖨️ Ferramentas nativas Windows | Impressão, desenho e exportação para PDF |
-
-> O projeto é estruturado para funcionar como uma aplicação desktop clássica, aproveitando o ecossistema Windows e MySQL para máximo desempenho e compatibilidade.
-
----
 
 <a id="banco-de-dados"></a>
 ## 💾 BANCO DE DADOS
@@ -166,3 +168,16 @@ cd "Sistema de Supermercado"
 > Para um funcionamento completo, certifique-se de que o serviço MySQL esteja ativo antes de iniciar a aplicação.
 
 ---
+
+<a id="usuario-e-senha-de-teste"></a>
+## 🔐 USUÁRIO E SENHA DE TESTE
+
+- O sistema não possui tela de login de usuário e senha.
+- A conexão com o banco de dados é feita diretamente pelo arquivo `ConexaoBD.cs`.
+- Ajuste as credenciais de acesso conforme seu ambiente MySQL.
+
+Exemplo usado no código:
+- Usuário: `admin_supermercado`
+- Senha: `123456`
+
+> Caso prefira, crie um usuário MySQL local diferente e atualize a string de conexão em `ConexaoBD.cs`.
